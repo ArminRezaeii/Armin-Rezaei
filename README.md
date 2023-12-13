@@ -32,8 +32,9 @@
 
 ###
 
-<p align="left">- 📚 I’m currently learning how to use Next.js and GraphQL to create dynamic and data-driven websites.<br><br>- ⚡ In my free time I enjoy reading books, playing video games, and contributing to open source projects.</p>
+<p align="left">- 📚 I’m currently learning how to use Next.js and GraphQL to create dynamic and data-driven websites.<br><br>- 🎯 Goals: To learn new skills and challenge myself with new projects and problems.
 
+  
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -67,5 +68,6 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArminRezaeii&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+<br/>
 
 ###
