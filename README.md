@@ -60,7 +60,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
    <img width="12" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+     <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="Next Js logo"  />
+     <img width="12" />
+     <img src="https://pbs.twimg.com/media/FxoIFVgagAE-gqB?format=png&name=4096x4096" height="40" alt="Shadcn ui logo"  />
+     <img width="12" />
+     <img src="https://www.sanity.io/static/images/logo_rounded_square.png" height="40" alt="sanity logo"  />
 </div>
 
 ###
