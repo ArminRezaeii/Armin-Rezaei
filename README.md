@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">-💻 Currently honing my skills to develop dynamic and data-driven websites..<br><br>- 🎯 Goals: To learn new skills and challenge myself with new projects and problems.
+<p align="left">-🚀 Delving into the world of web development to create dynamic and data-rich websites.<br><br>- 🎯 Goals: To learn new skills and challenge myself with new projects and problems.
 
   
 ###
